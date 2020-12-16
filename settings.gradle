@@ -1,0 +1,3 @@
+include ':ReviewLibrary'
+include ':app'
+rootProject.name = "inapp"
